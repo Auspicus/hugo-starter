@@ -1,6 +1,6 @@
 # Hugo Starter
 
-**Based on Netlify's Victor Hugo**
+**Based on [Netlify's Victor Hugo](https://github.com/netlify/victor-hugo)**
 
 **A starting point for creating Hugo sites.**
 
